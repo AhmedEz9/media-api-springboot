@@ -34,7 +34,7 @@ Implemented advanced features:
 
 ## API Testing
 
-All endpoints were tested successfully using **Postman**. See the screenshots below for examples of the tests:
+All endpoints were tested successfully using **Postman**
 
 ![GET /api/media](Images/1.png)
 ![POST /api/media](Images/2.png)
