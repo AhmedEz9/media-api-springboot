@@ -49,6 +49,9 @@ All endpoints were tested successfully using **Postman**. See the screenshots be
 
 - Added **Swagger** for API documentation, displaying all endpoints and providing an interactive UI.
 
+![Swagger1](Images/9.png)
+![Swagger2](Images/10.png)
+
 ## Application Configuration
 
 - Updated `application.properties` with MongoDB Atlas credentials.
